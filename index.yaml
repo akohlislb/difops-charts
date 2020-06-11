@@ -3,10 +3,10 @@ entries:
   data-ops-airflow:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: "2020-06-11T17:06:45.6177267+05:30"
+    created: "2020-06-11T17:08:21.1920056+05:30"
     description: Airflow is a platform to programmatically author, schedule and monitor
       workflows
-    digest: 656a5722b06154a69629c6e2badfa2bc28eb74c82cd1661459fb584938f1d9e6
+    digest: 5c646acbd934d661019627e3168d6a55f3b63e25d2e4159a0b5efa2671e0a888
     home: https://airflow.apache.org/
     icon: https://airflow.apache.org/_images/pin_large.png
     keywords:
@@ -21,4 +21,4 @@ entries:
     urls:
     - https://akohlislb.github.io/difops-charts/data-ops-airflow-1.0.0.tgz
     version: 1.0.0
-generated: "2020-06-11T17:06:45.6132943+05:30"
+generated: "2020-06-11T17:08:21.1881834+05:30"
