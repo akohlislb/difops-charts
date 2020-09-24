@@ -3,7 +3,7 @@ entries:
   data-ops-airflow:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: "2020-09-11T16:36:37.2377682+05:30"
+    created: "2020-09-24T15:53:22.6596143+05:30"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -15,7 +15,7 @@ entries:
       version: 10.3.4
     description: Airflow is a platform to programmatically author, schedule and monitor
       workflows
-    digest: be7344bf8777c0152f508ce0b25ffc94d508d997965d6e71c935891cdb2b4410
+    digest: 434390060f9ec892c8577033b2386b9c23b9c7b597cd5b4f4cb1db5f544857f3
     home: https://airflow.apache.org/
     icon: https://airflow.apache.org/_images/pin_large.png
     keywords:
@@ -30,4 +30,4 @@ entries:
     urls:
     - https://akohlislb.github.io/difops-charts/data-ops-airflow-1.0.0.tgz
     version: 1.0.0
-generated: "2020-09-11T16:36:37.225533+05:30"
+generated: "2020-09-24T15:53:22.6526679+05:30"
